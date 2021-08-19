@@ -468,7 +468,7 @@ def loadConfig():
 
         requested_diff = "2"
         
-        rig_identiier = "Hello123"
+        rig_identiier = "Super1"
 
         
 
